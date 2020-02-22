@@ -1,0 +1,14 @@
+.main
+{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.box
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    height: 100px;
+    width: 100%;
+    
+}
